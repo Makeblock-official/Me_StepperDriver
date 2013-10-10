@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map Me_StepperDriver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Me_StepperDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setMicroStep	KEYWORD2
+reset	KEYWORD2
+moveTo	KEYWORD2
+move	KEYWORD2
+runSpeed	KEYWORD2
+setMaxSpeed	KEYWORD2
+setAcceleration	KEYWORD2
+setSpeed	KEYWORD2
+speed	KEYWORD2
+distanceToGo	KEYWORD2
+targetPosition	KEYWORD2
+currentPosition	KEYWORD2
+setCurrentPosition	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+run	KEYWORD2
+stop	KEYWORD2
+wait	KEYWORD2
+readState	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+STP_RUN	LITERAL1
+STP_FULL	LITERAL1
+STP_HALF	LITERAL1
+STP_QUARTER	LITERAL1
+STP_EIGHTH	LITERAL1
+STP_SIXTEENTH	LITERAL1
+#######################################
